@@ -1,0 +1,6 @@
+{
+  "name": "FR-KINGs AI Bot Pro",
+  "description": "FR-KINGs AI Bot Pro - AI-Powered Trading Terminal for Quotex OTC and Live Markets with high-accuracy signals, device-locked license activation, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
